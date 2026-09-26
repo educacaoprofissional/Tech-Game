@@ -1,0 +1,21 @@
+TECH-GAME - EXECUCAO NO GITHUB CODESPACES
+=========================================
+
+Este projeto ja foi preparado para o GitHub Codespaces.
+
+FLUXO RECOMENDADO:
+1. Suba O CONTEUDO desta pasta para a raiz do repositorio Tech-Game.
+2. No GitHub: Code > Codespaces > Create codespace on main.
+3. Aguarde a criacao do ambiente.
+4. No terminal, execute: npm start
+5. Abra PORTS / PORTAS > 5173 > Open in Browser.
+
+SE npm start INFORMAR QUE FALTAM DEPENDENCIAS:
+  npm install
+  npm start
+
+REGRA IMPORTANTE:
+O arquivo package.json precisa aparecer na raiz do repositorio.
+Nao coloque todo o projeto dentro de uma subpasta adicional.
+
+NAO ENVIE node_modules PARA O GITHUB.
